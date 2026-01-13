@@ -1,13 +1,67 @@
 Data Technician Portfolio 📊
-Overview
+End-to-End Training & Applied Data Skills Showcase
 
-This repository contains my Data Technician training portfolio, showcasing hands-on experience across data analysis, cloud computing, data protection laws, Python programming, business intelligence, and data visualisation. It demonstrates my ability to work with real-world datasets, apply data laws and regulations, design secure cloud-based data solutions, analyse trends, and communicate insights effectively to both technical and non-technical stakeholders.
+This repository contains my Data Technician training portfolio, showcasing hands-on experience across data analysis, cloud computing, data protection laws, Python programming, business intelligence, and data visualisation.
 
-Repository Contents 📁
-Workbooks & Coursework
-Week 1 – Foundations
+It demonstrates my ability to work with real-world datasets, apply data laws and regulations, design secure cloud-based data solutions, analyse trends, and communicate insights effectively to both technical and non-technical stakeholders.
 
-Data protection laws and regulations:
+🎯 Who This Portfolio Is For
+
+📊 Aspiring Data Analysts / Data Technicians building job-ready portfolios
+☁️ Learners developing cloud, SQL, and BI skills
+📚 Students and career switchers gaining hands-on data experience
+💼 Recruiters and employers reviewing applied technical capability
+
+🧩 Portfolio Objective
+
+The objective of this portfolio is to demonstrate my ability to:
+
+Apply data protection laws and governance principles
+
+Analyse and visualise real-world datasets
+
+Design and query relational databases using SQL
+
+Work with cloud platforms, particularly Microsoft Azure
+
+Build interactive BI dashboards
+
+Use Python and Pandas for data analysis
+
+Communicate insights clearly and professionally
+
+🛠️ Tools & Technologies
+
+Excel – Data cleaning, formulas, pivot tables, charts
+
+Python – Data analysis and logic implementation
+
+Pandas – Data manipulation and transformation
+
+SQL – Queries, joins, aggregations, database design
+
+Microsoft Azure – Cloud storage, analytics, security
+
+Power BI – Data modelling, dashboards, reports
+
+Tableau – Data visualisation and storytelling
+
+Jupyter Notebook – Interactive data analysis
+
+Data Protection & Governance – GDPR, DPA, FOI, CMA
+
+🚀 Portfolio Structure – Learning & Delivery Phases
+
+This portfolio is structured into clear weekly phases, mirroring a real-world data learning and delivery pipeline.
+
+1️⃣ Week 1 – Foundations: Data Law, Excel & Storytelling
+Purpose
+
+Build strong foundations in data governance, spreadsheet analysis, and data storytelling.
+
+Topics Covered
+
+Data protection laws & regulations
 
 GDPR
 
@@ -17,7 +71,7 @@ Freedom of Information (FOI)
 
 Computer Misuse Act
 
-Excel fundamentals:
+Excel fundamentals
 
 Tables and formatting
 
@@ -27,27 +81,35 @@ Formulas and functions
 
 Pivot tables and charts
 
-Data storytelling and presentation skills 
-<img width="602" height="360" alt="Picture5" src="https://github.com/user-attachments/assets/c89b3442-5708-4817-a945-3a8881bc2bd6" />
+Data storytelling & presentation skills
 
+<img width="602" height="360" alt="Week 1 Excel & Storytelling" src="https://github.com/user-attachments/assets/c89b3442-5708-4817-a945-3a8881bc2bd6" />
 
-Week 2 – Data Visualisation & Business Intelligence
+📌 Outcome
+Strong understanding of data ethics, compliance, and foundational analysis techniques.
 
-Tableau:
+2️⃣ Week 2 – Data Visualisation & Business Intelligence
+Purpose
+
+Transform raw data into meaningful visual insights for decision-making.
+
+Tools & Projects
+
+Tableau
 
 Tool comparison
 
 Dashboard creation
 
-Spotify dataset analysis:
+Spotify dataset analysis
 
 Artist, genre, and popularity trends
 
-Health and life expectancy analysis:
+Health & life expectancy analysis
 
 Global insights and comparisons
 
-Power BI labs:
+Power BI labs
 
 Data loading
 
@@ -55,17 +117,27 @@ Data transformation
 
 Dashboard and report creation
 
-Week 3 – Databases & SQL
+<img width="652" height="431" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/19f57a15-8abe-4172-9355-4d97718d0fb6" /> <img width="762" height="559" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/1bf6a563-476e-45d4-9b0b-ee26547125bd" />
 
-Database fundamentals:
+📌 Outcome
+Business-ready dashboards and strong visual storytelling skills.
 
-Primary keys and foreign keys
+3️⃣ Week 3 – Databases & SQL
+Purpose
+
+Understand how data is structured, stored, and queried using relational databases.
+
+Key Concepts
+
+Database fundamentals
+
+Primary and foreign keys
 
 Table relationships
 
 Relational vs non-relational databases
 
-SQL concepts:
+SQL concepts
 
 SELECT statements
 
@@ -73,41 +145,39 @@ JOIN types with examples
 
 Aggregations and filtering
 
+Practical work
+
 Retail business database design
 
-Practical SQL queries using a world database
+SQL queries using a world database
 
-Week 5 – Cloud Computing, Data Law & Azure Fundamentals
+<img width="597" height="548" alt="SQL Database Design" src="https://github.com/user-attachments/assets/ce9261ae-186f-4106-b3d4-2142143d96ae" />
 
-Cloud computing concepts and real-world use cases
+📌 Outcome
+Ability to design relational databases and extract insights using SQL.
 
-Comparison of major cloud providers:
+4️⃣ Week 5 – Cloud Computing, Data Law & Azure Fundamentals
+Purpose
 
-Amazon Web Services (AWS)
+Apply cloud computing concepts while ensuring legal and regulatory compliance.
 
-Microsoft Azure
+Key Topics
 
-Google Cloud Platform (GCP)
+Cloud computing
 
-Cloud service models:
+Real-world use cases
 
-Infrastructure as a Service (IaaS)
+AWS vs Azure vs GCP
 
-Platform as a Service (PaaS)
+Cloud service models
 
-Software as a Service (SaaS)
+IaaS, PaaS, SaaS
 
-Cloud deployment models:
+Deployment models
 
-Public Cloud
+Public, Private, Hybrid, Community Cloud
 
-Private Cloud
-
-Hybrid Cloud
-
-Community Cloud
-
-Data protection and IT legislation:
+Data protection & IT legislation
 
 GDPR
 
@@ -117,9 +187,9 @@ Computer Misuse Act 1990
 
 Police and Justice Act 2006
 
-Copyright and software licensing laws
+Copyright & software licensing
 
-Microsoft Azure services:
+Microsoft Azure Services
 
 Azure Blob Storage
 
@@ -131,90 +201,95 @@ Azure Data Factory
 
 Azure Machine Learning
 
-Business case study:
+Business Case Study
 
-“Paws & Whiskers” Azure data solution
+“Paws & Whiskers” Azure Data Solution
 
 Legal and regulatory compliance
 
 Azure service recommendations
 
-Relational data modelling (star schema)
+Star schema data modelling
 
-Data storage formats (CSV, JSON, Parquet)
+CSV, JSON, Parquet storage formats
 
-Data security, backup, disaster recovery, and scalability
+Security, backup, disaster recovery & scalability
 
-Power BI integration for reporting and dashboards
+Power BI integration
 
-Week 6 – Python & Data Analysis
+<img width="634" height="401" alt="Azure Architecture" src="https://github.com/user-attachments/assets/7e8bdfe8-3987-47f9-9a30-c5d069d253bc" />
 
-Python fundamentals:
+📌 Outcome
+End-to-end cloud data solution design with compliance awareness.
 
-FizzBuzz implementation
+5️⃣ Week 6 – Python & Data Analysis
+Purpose
 
-Data analysis using Pandas:
+Develop practical programming and analytical skills using Python.
+
+Skills & Tasks
+
+Python fundamentals
+
+Logic implementation
+
+FizzBuzz exercise
+
+Pandas data analysis
 
 Loading and exploring CSV files
 
 Indexing and slicing DataFrames
 
-Data manipulation (adding, renaming, and dropping columns)
+Column manipulation
 
 Conditional logic and grading
 
-Aggregation and grouping
-
-Pivot tables
+Aggregation, grouping & pivot tables
 
 Sorting and exporting datasets
 
-Real-world dataset exploration:
+Real-world datasets
 
-Student performance dataset
+Student performance analysis
 
 GDP (Nominal) per Capita dataset
 
-Practical analysis using Jupyter Notebook
+Jupyter Notebook
 
-Introduction to data visualisation and insight generation
+Interactive analysis
 
-Tools & Technologies Used 🛠️
+Insight generation
 
-Excel – Data cleaning, formulas, pivot tables, charts
+📌 Outcome
+Strong foundation in Python-driven data analysis and problem-solving.
 
-Python – Data analysis and logic implementation
-
-Pandas – Data manipulation, aggregation, and transformation
-
-SQL – Database design, queries, joins, and aggregations
-
-Microsoft Azure – Cloud storage, analytics, automation, and security
-
-Power BI – Data modelling, dashboards, and reports
-
-Tableau – Data visualisation and dashboards
-
-Jupyter Notebook – Interactive data analysis
-
-Data Protection & Governance – GDPR, DPA, FOI, CMA
-
-Key Skills Demonstrated 💡
+🧠 Key Skills Demonstrated
 
 Data analysis and insight generation
 
-Python and Pandas data manipulation
+Python & Pandas data manipulation
 
-SQL querying and relational database design
+SQL querying & relational database design
 
-Cloud computing and Azure data services
+Cloud computing & Azure data services
 
-Data visualisation and dashboard design
+Data visualisation & dashboard design
 
-Understanding of data protection laws and compliance
+Data protection laws & compliance
 
 Secure and scalable data solution design
 
 Communicating insights to non-technical stakeholders
 
 Problem-solving using real-world datasets
+
+🤝 Connect & Feedback
+
+If you found this portfolio useful:
+
+⭐ Star the repository
+🍴 Fork it
+💬 Share feedback or suggestions
+
+Thanks for reviewing my work! 📈
