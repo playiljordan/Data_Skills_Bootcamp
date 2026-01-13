@@ -27,7 +27,9 @@ Formulas and functions
 
 Pivot tables and charts
 
-Data storytelling and presentation skills
+Data storytelling and presentation skills 
+<img width="602" height="360" alt="Picture5" src="https://github.com/user-attachments/assets/c89b3442-5708-4817-a945-3a8881bc2bd6" />
+
 
 Week 2 – Data Visualisation & Business Intelligence
 
