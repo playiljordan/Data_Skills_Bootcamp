@@ -225,7 +225,7 @@ End-to-end cloud data solution design with compliance awareness.
 5️⃣ Week 6 – Python & Data Analysis
 Purpose
 
-Develop practical programming and analytical skills using Python.
+Develop practical programming and analytical skills using Python and Pandas to explore real-world datasets and generate insights.
 
 Skills & Tasks
 
@@ -241,48 +241,32 @@ Loading and exploring CSV files
 
 Indexing and slicing DataFrames
 
-Column manipulation
+Data manipulation (adding, renaming, and dropping columns)
 
 Conditional logic and grading
 
-Aggregation, grouping & pivot tables
+Aggregation and grouping
+
+Pivot tables
 
 Sorting and exporting datasets
 
-Real-world datasets
+Real-world dataset exploration
 
-Student performance analysis
+Student performance dataset
 
 GDP (Nominal) per Capita dataset
 
 Jupyter Notebook
 
-Interactive analysis
+Interactive data analysis
 
 Insight generation
 
+<img width="784" height="303" alt="Python Data Analysis" src="https://github.com/user-attachments/assets/ea405b1f-03f1-4900-8d56-0cd103c5566f" /> <img width="784" height="344" alt="Pandas Data Exploration" src="https://github.com/user-attachments/assets/9ecbf39a-7e3f-4fd8-acc0-22da1d861072" />
+
 📌 Outcome
-Strong foundation in Python-driven data analysis and problem-solving.
-
-🧠 Key Skills Demonstrated
-
-Data analysis and insight generation
-
-Python & Pandas data manipulation
-
-SQL querying & relational database design
-
-Cloud computing & Azure data services
-
-Data visualisation & dashboard design
-
-Data protection laws & compliance
-
-Secure and scalable data solution design
-
-Communicating insights to non-technical stakeholders
-
-Problem-solving using real-world datasets
+A solid foundation in Python-driven data analysis, data manipulation, and insight generation using real-world datasets.
 
 🤝 Connect & Feedback
 
